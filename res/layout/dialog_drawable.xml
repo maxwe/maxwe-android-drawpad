@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="100dp">
+
+    <TableRow>
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_a"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_b"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_c"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_d"
+                android:clickable="true"
+                />
+    </TableRow>
+    <TableRow>
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_e"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_e"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_f"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_f"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_g"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_g"
+                android:clickable="true"
+                />
+        <ImageView
+                android:id="@+id/iv_dialog_drawable_h"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drawable_h"
+                android:clickable="true"
+                />
+    </TableRow>
+
+
+
+
+</TableLayout>

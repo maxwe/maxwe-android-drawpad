@@ -1,0 +1,24 @@
+{
+    "graphName": "circle",
+    "status": "drawing",
+    "scale": 123,
+    "degree": 123,
+    "pen": {
+        "name": "default",
+        "startX": 123,
+        "startY": 123,
+        "moveLocations": [
+            123,123,
+            456,456,
+            789,789
+        ],
+        "endX": 123,
+        "endY": 123,
+        "color":123,
+        "strokeWidth": 123,
+        "filled": true
+    },
+    "drawable": {
+        "bitmap": "drawable id"
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawPad</string>
+
+    <string name="string_dialog_draw_setting_system_reset">reset</string>
+    <string name="string_dialog_draw_setting_system_close">close</string>
+
+    <string name="string_dialog_draw_setting_graphics_line_any">AnyLine</string>
+    <string name="string_dialog_draw_setting_graphics_line_straight">StraightLine</string>
+    <string name="string_dialog_draw_setting_graphics_circle_perfect">PerfectCircle</string>
+    <string name="string_dialog_draw_setting_graphics_circle_ellipse">Ellipse</string>
+    <string name="string_dialog_draw_setting_graphics_rectangle_right">RightRectangle</string>
+    <string name="string_dialog_draw_setting_graphics_rectangle_round">RoundRectangle</string>
+
+    <string name="string_dialog_draw_setting_pens_default">Default</string>
+    <string name="string_dialog_draw_setting_pens_dotted">Dotted</string>
+    <string name="string_dialog_draw_setting_pens_blur">Blur</string>
+    <string name="string_dialog_draw_setting_pens_emboss">Emboss</string>
+    <string name="string_dialog_draw_setting_pens_eraser">Eraser</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/menu_function_setting"
+            android:showAsAction="always"
+            android:title="设置"/>
+
+    <item
+            android:id="@+id/menu_function_graphics"
+            android:showAsAction="always"
+            android:title="图形"/>
+
+    <item
+            android:id="@+id/menu_function_pen"
+            android:showAsAction="always"
+            android:title="画笔"/>
+
+    <item
+            android:id="@+id/menu_function_color"
+            android:showAsAction="always"
+            android:title="颜色"/>
+
+    <item
+            android:id="@+id/menu_function_back_ground_color"
+            android:showAsAction="always"
+            android:title="背景颜色"/>
+
+    <item
+            android:id="@+id/menu_function_drawable"
+            android:showAsAction="always"
+
+            android:title="图片"/>
+
+    <item
+            android:id="@+id/menu_function_undo"
+            android:showAsAction="always"
+            android:title="后退"/>
+
+    <item
+            android:id="@+id/menu_function_redo"
+            android:showAsAction="always"
+            android:title="前进"/>
+
+    <item
+            android:id="@+id/menu_function_clear"
+            android:showAsAction="always"
+            android:title="清空"/>
+
+    <item
+            android:id="@+id/menu_function_save"
+            android:showAsAction="always"
+            android:title="导出图片"/>
+
+    <item
+            android:id="@+id/menu_function_help"
+            android:showAsAction="ifRoom"
+            android:title="帮助"/>
+
+    <item
+            android:id="@+id/menu_function_info"
+            android:showAsAction="ifRoom"
+            android:title="信息"/>
+</menu>

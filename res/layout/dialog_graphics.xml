@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="100dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+        <Button
+                android:id="@+id/bt_dialog_graphics_path"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="曲线"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+
+                />
+        <Button
+                android:id="@+id/bt_dialog_graphics_line"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="直线"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+        <Button
+                android:id="@+id/bt_dialog_graphics_circle_stroke"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="圆形"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        <Button
+                android:id="@+id/bt_dialog_graphics_oval_stroke"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="椭圆"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+    </LinearLayout>
+
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+        <Button
+                android:id="@+id/bt_dialog_graphics_rect_stroke"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="直角矩形"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        <Button
+                android:id="@+id/bt_dialog_graphics_rect_round_stroke"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="圆角矩形"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+    </LinearLayout>
+
+
+</LinearLayout>
