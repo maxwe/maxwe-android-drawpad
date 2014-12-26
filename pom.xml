@@ -18,8 +18,8 @@
         <keystore.pass>XXXXXXXXXXXXX</keystore.pass>
         <keystore.password>XXXXXXXXXXXXX</keystore.password>
         <keystore.alias>org.maxwe.android.keystore</keystore.alias>
-        <maven.complier.source>1.6</maven.complier.source>
-        <maven.complier.target>1.6</maven.complier.target>
+        <maven.complier.source>1.7</maven.complier.source>
+        <maven.complier.target>1.7</maven.complier.target>
     </properties>
 
 
@@ -80,8 +80,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
+                    <source>1.7</source>
+                    <target>1.7</target>
                 </configuration>
             </plugin>
         </plugins>
